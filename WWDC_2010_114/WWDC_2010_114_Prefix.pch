@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'WWDC_2010_114' target in the 'WWDC_2010_114' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
